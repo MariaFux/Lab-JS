@@ -1,0 +1,27 @@
+[
+  {
+    "userName": "Eddie Odonnell",
+    "email": "Odonnell@gmail.com",
+    "age": 16
+  },
+  {
+    "userName": "Camila Caldwell",
+    "email": "Caldwell@gmail.com",
+    "age": 25
+  },
+  {
+    "userName": "Jorge Thornton",
+    "email": "Thornton@gmail.com",
+    "age": 19
+  },
+  {
+    "userName": "Fiona Cantrell",
+    "email": "Cantrell@gmail.com",
+    "age": 21
+  },
+  {
+    "userName": "Amina West",
+    "email": "West@gmail.com",
+    "age": 17
+  }
+]

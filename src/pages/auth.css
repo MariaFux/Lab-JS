@@ -1,0 +1,22 @@
+.authForm {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.authForm input {
+  margin-left: 0;
+}
+
+.authForm .authBtn:hover {
+  background: white;
+  color: #36304a;
+  border: solid 1px #36304a;
+  cursor: pointer;
+}
+
+h2 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  color: #36304a;
+}

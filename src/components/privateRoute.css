@@ -1,0 +1,24 @@
+.signOut {
+  display: flex;
+  align-items: center;
+}
+
+.welcome {
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+.signOutBtn {
+  margin: 10px;
+  margin-left: 25px;
+  padding: 6px 17px;
+  font-family: Montserrat-Medium;
+  font-size: 14px;
+}
+
+.signOutBtn:hover {
+  padding: 5px 16px;
+  background: white;
+  color: #36304a;
+  border: solid 1px #36304a;
+}

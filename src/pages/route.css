@@ -1,0 +1,16 @@
+.navList {
+  display: flex;
+  flex-direction: row;
+}
+.navLink {
+  text-decoration: none;
+  color: #36304a;
+  margin: 10px;
+  padding: 4px 20px;
+  border: solid 1px #36304a;
+}
+
+.navLink:hover {
+  background: #36304a;
+  color: white;
+}
